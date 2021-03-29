@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NJMES | JiaMing
+- 👋 Hi, I’m @NJMES 
 - 👀 I’m interested in ... Learning anything to improve existing process through technology and design.
 - 🌱 I’m currently learning ... Network, Python, cybersecurity, Blockchain
 - 💞️ I’m looking to collaborate on ... TBC.
